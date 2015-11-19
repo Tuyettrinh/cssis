@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://congtyquangcaogoogletaiquan1.blogspot.com/' target='_blank'><img src='http://www.quangcaogoogleadwords.com/wp-content/uploads/2013/03/googleadwordsnetviet.jpg' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://congtyquangcaogoogletaiquan1.blogspot.com/' target='_blank'><img src='http://www.quangcaogoogleadwords.com/wp-content/uploads/2013/03/googleadwordsnetviet.jpg' width='500px'/>Quảng Cáo google adwords hiệu quả</a>. . Hotline 0902334151<h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
