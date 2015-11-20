@@ -33,5 +33,5 @@
       //]]>
 	/*
 	var url_popup = 'http://phuongnamdigital.com/';
-	<script src="https://jgoogle.googlecode.com/svn/trunk/popup.js"></script>
+	<script src="https://rawgithub.com/Tuyettrinh/cssis/master/hocvienfaceseo.js"></script>
 	*/
