@@ -1,5 +1,5 @@
 //please contact me giaiphapthuonghieu.org@gmail.com
-//website http://giaiphapthuonghieu.vn or http://faceseo.vn
+//website https://tinhdaukhuechtantunhien.blogspot.com/ or https://www.facebook.com/tinhdaukhuechtan.lolemshop/
 
 (function($) {
     $.fn.linhnguyen = function(options) {        
