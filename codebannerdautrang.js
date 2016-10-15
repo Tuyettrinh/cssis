@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='http://www.quangcaogoogleadwords.com/wp-content/uploads/2013/03/googleadwordsnetviet.jpg' width='500px'/><br/>13 Ghế sofa giá rẻ TPHCM</a>. Mẫu sofa đẹp 2017 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://congtyquangcaogoogletaiquan1.blogspot.com/' target='_blank'><img src='http://www.quangcaogoogleadwords.com/wp-content/uploads/2013/03/googleadwordsnetviet.jpg' width='500px'/><br/>13 Ghế sofa giá rẻ TPHCM</a>. Mẫu sofa đẹp 2017 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
