@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='https://lh3.googleusercontent.com/Idw6V4kW3ri7Y8W65KZWYwtsxyhOyyiYZ8CffeFytEIkWvt1n3oh1hEZbxi6E33QVaUcGbrwMSgChqoTKz1IfQ-A_7QwsVc4lMW-SbKMsOR4z2Qu6OSJGvlss8Vp75UIZDnHERAjIWHsA4vxFO26bu9L1PeYwxfjE0dkezNfPZ_NxICTozEBArrQKenwVA9rFdetEpBfGivh0F7lFZUCtTJf2edJpwxwAx9E1XmA3bt3xAsejKlQz-jv0c_d3dIauiCtgiR6UqEl8gKpWMD4JG6gJaHQur3ECY7ijxtjGGWaJGCj8ykH5PCDw2thmtaVTKqkvLDm2Bb-48poCWY4eL9advOilTe90Av6XrBcBoUMSPtE85eULDs-uvUvJfM0tzP0J0Q2YaKlgsoU3Pt8zkiChl27PJy65J67A7XO1A53KJ_8e8xq7UgK6_LZUA6aHMVmhq74In5wd0iCfWoya7Nh6PIW5Zj1YhajU4FlIxKKKuXdIsTg0xeYenYbnjcgyV14by4757AKVmczcovwDxKl8mu0ueoD6WB_Adg8fE9ZVn9Nl12FHLy8123xB1C5rMmWGJpNwHo8BpqbN4gnoC5mfdiHW4SdLCXw7-_u-TcS2lRx=s500-no' width='500px'/><br/>13 Ghế sofa giá rẻ TPHCM</a>. Mẫu sofa đẹp 2017 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='http://www.quangcaogoogleadwords.com/wp-content/uploads/2013/03/googleadwordsnetviet.jpg' width='500px'/><br/>13 Ghế sofa giá rẻ TPHCM</a>. Mẫu sofa đẹp 2017 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
