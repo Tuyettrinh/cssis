@@ -1,5 +1,5 @@
 
-	var url_popup = 'http://sofagiarehcm.com';
+	var url_popup = 'http://tinhdaukhuechtantunhien.blogspot.com/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://sofagiarehcm.com';
